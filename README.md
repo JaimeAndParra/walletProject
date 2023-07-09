@@ -1,1 +1,1 @@
-# walletProject
+# Backend course - Wallet Project
