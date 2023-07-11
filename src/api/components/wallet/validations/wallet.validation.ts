@@ -28,14 +28,12 @@ function validateAmount(reqBody:Object, wallet: Wallet, type:string){
     if(validation.error) throw new CustomError(`${validation.error.details[0].message}`);
     if(wallet.status!='Active') throw new CustomError('Error, Wallet is not active');
 
-    const amount = validation.value;
-    
     if(type === 'RECHARGE'){
-        let newAmount:number = wallet.amount + amount;
+        let newAmount:number = wallet.amount + validation.value.amount;
         if(5000000 < newAmount) throw new CustomError('Error, amount to recharge wallet is to high');
     }
 
-    return amount;
+    return validation.value;
 }
 
 export {

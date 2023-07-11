@@ -1340,3 +1340,50 @@ undefined-[object Object]: undefined
 2023-07-09T15:02:05.380Z-info: Server is running on port 8086
 2023-07-09T15:02:05.658Z-error: Failed to update wallet in WalletService: [Error: Error simulado]
 2023-07-09T15:25:46.997Z-info: Server is running on port 8086
+2023-07-09T19:23:12.805Z-info: New wallet created: undefined
+2023-07-09T19:23:12.817Z-error: Failed creating wallet in WalletService: [TypeError: Cannot read properties of undefined (reading 'wallet_id')]
+2023-07-09T19:23:33.105Z-info: New wallet created: undefined
+2023-07-09T19:23:33.120Z-error: Failed creating wallet in WalletService: [TypeError: Cannot read properties of undefined (reading 'wallet_id')]
+2023-07-09T19:27:07.441Z-info: Server is running on port 8086
+2023-07-09T19:27:56.829Z-info: New wallet created: {"wallet_id":"4","user_id":"4","min_amount":2000,"max_amount":null,"amount":0,"status":"Active","created_at":"2023-07-09T19:27:56.762Z","updated_at":"2023-07-09T19:27:56.762Z"}
+2023-07-09T19:29:50.187Z-info: New wallet created: undefined
+2023-07-09T19:29:50.193Z-error: Failed creating wallet in WalletService: [TypeError: Cannot read properties of undefined (reading 'wallet_id')]
+2023-07-09T19:34:20.175Z-info: New wallet created: undefined
+2023-07-09T19:34:20.181Z-error: Failed creating wallet in WalletService: [TypeError: Cannot read properties of undefined (reading 'wallet_id')]
+2023-07-09T19:34:35.232Z-info: New wallet created: undefined
+2023-07-09T19:34:35.242Z-error: Failed creating wallet in WalletService: [TypeError: Cannot read properties of undefined (reading 'wallet_id')]
+2023-07-09T19:36:02.177Z-info: New wallet created: undefined
+2023-07-09T19:36:02.183Z-error: Failed creating wallet in WalletService: [TypeError: Cannot read properties of undefined (reading 'wallet_id')]
+2023-07-09T19:36:28.915Z-info: New wallet created: undefined
+2023-07-09T19:36:28.927Z-error: Failed creating wallet in WalletService: [TypeError: Cannot read properties of undefined (reading 'wallet_id')]
+2023-07-09T19:55:51.930Z-info: New wallet created: undefined
+2023-07-09T19:55:51.935Z-error: Failed creating wallet in WalletService: [TypeError: Cannot read properties of undefined (reading 'wallet_id')]
+2023-07-09T19:56:13.712Z-info: New wallet created: undefined
+2023-07-09T19:56:13.719Z-error: Failed creating wallet in WalletService: [TypeError: Cannot read properties of undefined (reading 'wallet_id')]
+2023-07-09T20:00:05.555Z-info: New wallet created: {"user_id":1,"min_amount":2000,"amount":0,"status":"Active","created_at":"2023-07-09T20:00:05.548Z","updated_at":"2023-07-09T20:00:05.548Z"}
+2023-07-09T20:09:05.832Z-info: New wallet created: undefined
+2023-07-09T20:09:05.838Z-error: Failed creating wallet in WalletService: [TypeError: Cannot read properties of undefined (reading 'wallet_id')]
+2023-07-09T20:09:58.640Z-info: New wallet created: undefined
+2023-07-09T20:09:58.645Z-error: Failed creating wallet in WalletService: [TypeError: Cannot read properties of undefined (reading 'wallet_id')]
+2023-07-09T20:11:11.994Z-error: Failed creating wallet in WalletService: [[object Object]]
+2023-07-09T20:11:37.555Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T20:11:37.544Z","updated_at":"2023-07-09T20:11:37.544Z"}
+2023-07-09T20:12:21.738Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T20:12:21.729Z","updated_at":"2023-07-09T20:12:21.729Z"}
+2023-07-09T20:13:17.508Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T20:13:17.495Z","updated_at":"2023-07-09T20:13:17.495Z"}
+2023-07-09T20:14:02.918Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T20:14:02.905Z","updated_at":"2023-07-09T20:14:02.905Z"}
+2023-07-09T21:43:36.914Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T21:43:36.912Z","updated_at":"2023-07-09T21:43:36.912Z"}
+2023-07-09T21:43:46.995Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T21:43:46.994Z","updated_at":"2023-07-09T21:43:46.994Z"}
+2023-07-09T21:52:57.813Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T21:52:57.811Z","updated_at":"2023-07-09T21:52:57.811Z"}
+2023-07-09T21:54:23.203Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T21:54:23.202Z","updated_at":"2023-07-09T21:54:23.202Z"}
+2023-07-09T21:55:22.224Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T21:55:22.222Z","updated_at":"2023-07-09T21:55:22.222Z"}
+2023-07-09T21:55:53.951Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T21:55:53.950Z","updated_at":"2023-07-09T21:55:53.950Z"}
+2023-07-09T21:56:06.824Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T21:56:06.823Z","updated_at":"2023-07-09T21:56:06.823Z"}
+2023-07-09T21:56:24.321Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T21:56:24.320Z","updated_at":"2023-07-09T21:56:24.320Z"}
+2023-07-09T22:21:53.313Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T22:21:53.312Z","updated_at":"2023-07-09T22:21:53.312Z"}
+2023-07-09T22:22:26.834Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T22:22:26.832Z","updated_at":"2023-07-09T22:22:26.832Z"}
+2023-07-09T22:22:46.596Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T22:22:46.595Z","updated_at":"2023-07-09T22:22:46.595Z"}
+2023-07-09T22:23:42.139Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T22:23:42.138Z","updated_at":"2023-07-09T22:23:42.138Z"}
+2023-07-09T22:26:46.323Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T22:26:46.322Z","updated_at":"2023-07-09T22:26:46.322Z"}
+2023-07-09T22:28:21.891Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T22:28:21.889Z","updated_at":"2023-07-09T22:28:21.889Z"}
+2023-07-09T22:29:16.047Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T22:29:16.045Z","updated_at":"2023-07-09T22:29:16.045Z"}
+2023-07-09T22:29:50.472Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T22:29:50.470Z","updated_at":"2023-07-09T22:29:50.470Z"}
+2023-07-09T22:30:27.809Z-info: New wallet created: {"wallet_id":1,"user_id":1,"min_amount":2000,"max_amount":0,"amount":0,"status":"Active","created_at":"2023-07-09T22:30:27.808Z","updated_at":"2023-07-09T22:30:27.808Z"}
